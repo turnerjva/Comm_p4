@@ -5,8 +5,7 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Turner VonAlman](https://github.com/turnerjva)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Custom keyboard PCB designed for use with Elite-Pi MCU
 
 Make example for this keyboard (after setting up your build environment):
 
